@@ -1,6 +1,6 @@
 ## Nike US Sales Report   
 
-<p align="center"> <img width="600" src="https://github.com/gentallman/Nike-US-Sales/blob/25b1fb51774f0778a094c36d16137cbbed3a8b3c/assest/report.gif">
+<p align="center"> <img width="1000" src="https://github.com/gentallman/Nike-US-Sales/blob/25b1fb51774f0778a094c36d16137cbbed3a8b3c/assest/report.gif">
  </p>
 
 
