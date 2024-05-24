@@ -1,7 +1,6 @@
 ## Nike US Sales Report   
 
-<p align="center"> <img width="500" src="https://github.com/gentallman/Nike-US-Sales/blob/25b1fb51774f0778a094c36d16137cbbed3a8b3c/assest/report.gif">
- </p>
+![Nike Sales Report](https://github.com/gentallman/Nike-US-Sales/assets/78334851/729f9e18-2f53-4911-b643-7ba19f41f585)
 
 
 - Developed a comprehensive calendar in Power BI utilizing product invoice dates, enhancing time-related data analysis and visualization capabilities.
