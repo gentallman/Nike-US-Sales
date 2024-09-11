@@ -34,10 +34,12 @@
 
 ## Contact
 
-Author: Smit Rana
+## Contact
 
-LinkedIn: https://www.linkedin.com/in/smit98rana/
-
+Author: [@Smit Rana](https://www.linkedin.com/in/smit98rana/)
 <p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+	<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="200">
 </p>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
